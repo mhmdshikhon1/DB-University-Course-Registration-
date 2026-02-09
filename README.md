@@ -20,7 +20,7 @@ Database: MySQL
 
 ### 📸 Screenshots
 #### Entity Relationship Diagram (ERD)
-![ERD](screenshots/WhatsApp Image 2026-02-09 at 11.17.17 PM.jpeg)
+![ERD](screenshots/WhatsApp%20Image%202026-02-09%20at%2011.17.17%20PM.jpeg)
 #### Project User Interface (GUI)
-![GUI](screenshots/WhatsApp Image 2026-02-09 at 11.17.45 PM.jpeg)
-![GUI](screenshots/WhatsApp Image 2026-02-09 at 11.18.03 PM.jpeg)
+![GUI](screenshots/WhatsApp%20Image%202026-02-09%20at%2011.17.45%20PM.jpeg)
+![GUI](screenshots/WhatsApp%20Image%202026-02-09%20at%2011.18.03%20PM.jpeg)
