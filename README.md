@@ -2,7 +2,7 @@
 A comprehensive management system designed to handle university course registrations. The project covers the full database lifecycle, from conceptual design using ERD and Relational Schema to implementation using SQL and a Python GUI.
 
 ## Author
-Mohamed Mahmoud Abdelrazek Shekhoun
+Mohamed Mahmoud Abdelrazek Shaikhoun
 
 ## 🛠 My Primary Role: SQL DDL Engineering
 In this team project, I took the lead on the Data Definition Language (DDL) phase. My responsibility was to build the "backbone" of the system, ensuring the database was scalable and error-proof: 
